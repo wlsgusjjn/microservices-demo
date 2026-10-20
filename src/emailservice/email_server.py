@@ -77,7 +77,7 @@ class EmailService(BaseEmailService):
         "to": [{
           "address_spec": email_address
         }],
-        "subject": "First PR Test Email",
+        "subject": "Second PR Test Email",
         "html_body": content
       }
     )
